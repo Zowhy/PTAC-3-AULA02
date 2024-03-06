@@ -1,5 +1,5 @@
-export default function NotFound(){
+export default function NotFound() {
     return (
-        <h1>Error!</h1>
+        <h1>error!</h1>
     );
 }
