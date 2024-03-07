@@ -15,7 +15,7 @@ export default function Footer() {
                />
 
             </Link>
-            <h1>footer</h1>
+            <h1>zowhy</h1>
          
         </footer>
     );

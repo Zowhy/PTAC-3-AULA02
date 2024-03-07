@@ -1,8 +1,9 @@
-.ft{
-    display: flex;
+.rodape{
+    display:flex ;
     height: 100px;
-    background-color: rgb(0, 0, 0); 
-}
-.ft h1{
-    margin-top: 0px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
 }
