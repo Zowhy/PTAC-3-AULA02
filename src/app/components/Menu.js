@@ -6,7 +6,7 @@ export default function Menu() {
     return (
         <header className={styles.cabecalho}>
            
-           <Image width={100} height={100} src={"https://www.logo.wine/a/logo/Moodle/Moodle-Logo.wine.svg"}/>
+           <Image width={100} height={100} src={"https://www.ifms.edu.br/marcaifms.png"}/>
 
 
             <h1>Menu</h1>
