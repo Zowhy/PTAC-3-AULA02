@@ -2,7 +2,7 @@
 const nextConfig = {
     images: {
         domains: [
-            'ead.ifms.edu.br', "www.ifms.edu.br", "www.logo.wine"
+            'ead.ifms.edu.br', "www.ifms.edu.br", "www.ifms.edu.br", "www.logo.wine"
         ]
     }
 }
